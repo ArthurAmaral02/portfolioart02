@@ -2,6 +2,7 @@
   "expo": {
     "name": "MeuApp",
     "slug": "MeuApp",
+    "owner": "portifolioarthur02",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -43,6 +44,18 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "d027e396-a691-4da1-ac9b-f0ef3b49e261"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/d027e396-a691-4da1-ac9b-f0ef3b49e261"
     }
   }
 }
